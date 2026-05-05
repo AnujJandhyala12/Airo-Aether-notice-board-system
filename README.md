@@ -1,31 +1,5 @@
 # CampusConnect
 
-A full-stack, context-aware dashboard designed for Mahindra University to dynamically display notices, live match scores, daily themes, and mess menus based on the current context
-
-Features:
-
--Context Switching
-  Automatically switches between Daily View and Event View (AIRO / AETHER)
--Dynamic Notices
-  Displays real-time announcements from Firebase
-  Filters based on event type (AIRO / AETHER / General)
--Live Match Dashboard
-  Displays live sports matches
-  Categorized by sport (Cricket, Football, Basketball)
--Daily Themes
-  Event-based themes (e.g., Traditional Wear, Retro Day)
-  Auto-highlights current day
--Mess Menu System
-  Displays daily breakfast, lunch, snacks, and dinner
--Weather Integration
-  Shows live weather data (temperature, humidity, AQI, etc.)
--Auto Refresh
-  Updates data periodically for near real-time experiece
-
-
-
-  # CampusConnect
-
 A **full-stack, context-aware dashboard** designed for Mahindra University to dynamically display notices, live match scores, daily themes, and mess menus based on the current context (Daily / Event mode).
 
 ---
