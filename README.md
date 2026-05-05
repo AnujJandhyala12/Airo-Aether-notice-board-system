@@ -59,6 +59,7 @@ A **full-stack, context-aware dashboard** designed for Mahindra University to dy
 
 * Railway (Backend)
 * GitHub Pages / Static Hosting (Frontend)
+* Netlify
 
 ---
 
