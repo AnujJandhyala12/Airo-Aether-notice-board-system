@@ -148,9 +148,8 @@ Open `index.html` in browser or use live server.
 
 ## Future Improvements
 
-* Real-time updates using WebSockets
+
 * Admin dashboard for clubs to manage content
-* Mobile app integration
 * Integration with live sports APIs
 * Role-based access for different clubs
 
