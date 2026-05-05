@@ -168,13 +168,11 @@ The system can be extended by collaborating with:
 
 ## Contributors
 
-* Your Name
-* Team Member 2
-* Team Member 3
-* Team Member 4
+* Anuj Jandhyala
+* Harshith Kottamasu
+* Abhinav Simha Dharmana
+* Venkat Akshay Grandhi
+* Ankit Parupalli
+* Aryan Gumidelli
+* Gynanesh
 
----
-
-## License
-
-This project is for academic purposes.
