@@ -152,7 +152,7 @@ Open `index.html` in browser or use live server.
 * Admin dashboard for clubs to manage content
 * Integration with live sports APIs
 * Role-based access for different clubs
-
+* Can add daily food wastage to MENU section
 ---
 
 ## Collaboration Scope
